@@ -15,6 +15,7 @@ Enter your file extension and click "Select Folder". A file dialog window will a
 ![Line Amount](images/lines.png)
 
 Lastly, if it wasn't obvious, if you receive a pop-up like this:
+
 ![No Folder](images/nofolder.png)
 
 It means you didn't select a folder.
