@@ -7,15 +7,5 @@ This is a simple Python script that scans a given folder and counts the amount o
   + filedialog
   + messagebox
 
-## How to use
-It is reasonably self explanatory. On launch you are presented with the following interface:
-![Launch Screen](images/launch.png)
-
-Enter your file extension and click "Select Folder". A file dialog window will appear. After selecting the file, the number of lines of code will appear: (This might take a second depending on the size of the folder)
-![Line Amount](images/lines.png)
-
-Lastly, if it wasn't obvious, if you receive a pop-up like this:
-
-![No Folder](images/nofolder.png)
-
-It means you didn't select a folder.
+## Running
+Simply run CodeCounterV2.py and select the corresponding extension you want to count lines for.
